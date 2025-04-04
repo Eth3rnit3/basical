@@ -1,4 +1,5 @@
 # Basical
+[![CI](https://github.com/Eth3rnit3/basical/actions/workflows/ci.yml/badge.svg)](https://github.com/Eth3rnit3/basical/actions/workflows/ci.yml)
 An isolated Rails engine designed to be easily reusable across different projects.
 
 ## Features
