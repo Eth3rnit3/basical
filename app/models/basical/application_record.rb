@@ -1,5 +1,4 @@
 module Basical
-  class ApplicationRecord < ActiveRecord::Base
-    self.abstract_class = true
+  class ApplicationRecord
   end
 end
