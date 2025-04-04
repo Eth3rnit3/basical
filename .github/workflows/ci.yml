@@ -21,3 +21,7 @@ jobs:
       - name: Lint code for consistent style
         run: bin/rubocop -f github
 
+      - name: Run tests with documentation format
+        run: bin/rspec
+        
+
